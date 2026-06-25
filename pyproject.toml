@@ -5,7 +5,7 @@ description = "Privacy-first developer productivity tracker"
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
-authors = [{ name = "FocusGuard Contributors" }]
+authors = [{ name = "Dhruv Sharma" }]
 keywords = ["productivity", "focus", "tracker", "cli", "developer-tools"]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -18,7 +18,7 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
-    "Topic :: Software Development :: Quality Assurance",
+    "Topic :: Office/Business :: Scheduling",
     "Topic :: Utilities",
 ]
 dependencies = [
