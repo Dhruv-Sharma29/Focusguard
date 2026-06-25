@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FocusGuard data (never commit user data)
+*.db
+*.db-wal
+*.db-shm
+focusguard.pid
+daemon.log
+daemon.err
+
+# Config with real secrets
+config.toml
+.env
+*.env
+
+# Encryption key backups
+*.key
+encryption_key*
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Distribution
+*.tar.gz
+*.whl
